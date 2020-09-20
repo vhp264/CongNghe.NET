@@ -1,0 +1,40 @@
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDangKy.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTrangChinh.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDangNhap.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDanhSachKH.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDanhSachNV.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLoaiSach.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCungCap.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmPhieuBanSach.resources
+D:\DuyThaiIT\Công Nghệ .NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmThongTinSach.resources
+C:\Users\Admin\Desktop\New folder\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Admin\Desktop\New folder\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\Admin\Desktop\New folder\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe.config
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.exe
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.pdb
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.exe
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\bin\Debug\QuanLyNhaSach.pdb
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDangNhap.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDanhSachKH.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmDanhSachNV.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmLoaiSach.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmPhieuBanSach.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmThongTinSach.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmTrangChinh.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmReportHoaDon.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmReportChiTietHoaDon.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmPhieuNhapSach.resources
+C:\Users\Admin\Desktop\Đồ án NET\DeTaiNhom_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\obj\Debug\QuanLyNhaSach.frmNhanVien.resources
